@@ -1,0 +1,13 @@
+Attendance,Study_Hours,Internal_Marks,Result
+High,High,High,Pass
+High,Medium,High,Pass
+Medium,High,High,Pass
+Low,Low,Low,Fail
+Low,Medium,Low,Fail
+Medium,Low,Low,Fail
+High,Low,Medium,Pass
+Low,High,Medium,Pass
+Medium,Medium,Medium,Pass
+Low,Low,Medium,Fail
+Medium,High,Medium,Pass
+High,Medium,Medium,Pass
