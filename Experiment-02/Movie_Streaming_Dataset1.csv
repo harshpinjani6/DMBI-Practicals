@@ -1,0 +1,7 @@
+Viewer_ID,Viewer_Name,Age,Gender,City,Movie_ID,Movie_Title,Genre,Language,Subscription_Type,Watch_Time,Rating,Payment_Method,Total_Watch_Hours
+V101,Amit,24,Male,Mumbai,M101,The Last Journey,Drama,English,Premium,120,4.8,Credit Card,2.00
+V102,Rahul,29,Male,Pune,M102,Hidden Truth,Thriller,English,Basic,95,4.2,UPI,1.58
+V103,Priya,,Female,Mumbai,M103,City Lights,Comedy,Hindi,Premium,110,,,1.83
+V104,Sneha,26,Female,,M104,Final Mission,Action,Hindi,Standard,130,4.5,Debit Card,2.17
+V105,Karan,31,Male,Pune,M105,The Last Journey,Drama,English,Premium,105,4.7,UPI,1.75
+V101,Amit,24,Male,Mumbai,M101,The Last Journey,Drama,English,Premium,120,4.8,Credit Card,2.00
